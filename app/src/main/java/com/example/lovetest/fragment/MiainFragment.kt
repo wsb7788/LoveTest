@@ -22,6 +22,7 @@ class MiainFragment : Fragment() {
     private var param2: String? = null
     lateinit var navController: NavController
 
+    //test
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         arguments?.let {
